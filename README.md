@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdul-rahim-22
+- 👋 Hi, I’m @abdul-rahim
 - 👀 I’m interested in web application creating
 - 🌱 I’m currently learning javascript 
 - 📫 How to reach me on whatapp (+923164949427)
